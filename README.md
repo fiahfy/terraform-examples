@@ -1,5 +1,5 @@
 # terraform-samples
-> Configuration Samples for Terraform.
+> Samples for Terraform Configuration.
 
 
 ## Requirements
