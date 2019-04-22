@@ -1,5 +1,5 @@
-# simple-vpc
-> Simple VPC Network.
+# aws-simple-vpc
+> Simple AWS VPC Network.
 
 
 ## Deployment
